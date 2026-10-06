@@ -2,4 +2,5 @@ Open the "SB STD CODE.R" file, apply the codes shown under the "***RUN***" text 
 Your STD dataset is named as "finalr_practice(AutoRecovered).csv".
 The STD dataset contains 1288 unique rows which could be manipulated using your "SB STD CODE.R".
 Pick your disease (Chlamydia, Gonorrhea, or Syphilis) and discover unique counts, age-specific rates by age-groups, and incidence rates per year. 
-To analyze your data smoother, clean your table by following the first directed rules found on your "SB STD CODE.R".
+Prior to attempting to get your unique counts, age-specific rates by age-groups, and incidence rates per year, clean your STD data to make it easier to process.
+Pre-Data Cleaning Formula (Found in SB STD CODE.R)
