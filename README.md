@@ -5,6 +5,6 @@ Pick your disease (Chlamydia, Gonorrhea, or Syphilis) and discover unique counts
 Prior to attempting to get your unique counts, clean your STD data to make it easier to process.
 
 
-Pre-Data Cleaning Formula (Found in SB STD CODE.R) specifics of what each formula does found in R Formula
+Data Cleaning Formulas needing to be inputted prior to analyzing your communicable diseases (Found in SB STD CODE.R) 
 
 stdreport <- finalr_practice_AutoRecovered_
