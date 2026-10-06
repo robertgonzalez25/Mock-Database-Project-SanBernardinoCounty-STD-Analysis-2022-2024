@@ -7,6 +7,5 @@ Prior to attempting to get your unique counts, age-specific rates by age-groups,
 
 
 
-Pre-Data Cleaning Formula (Found in SB STD CODE.R)
-
-
+Pre-Data Cleaning Formula (Found in SB STD CODE.R) specifics of what each formula does found in R Formula
+stdreport <- finalr_practice_AutoRecovered_
