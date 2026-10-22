@@ -5,6 +5,6 @@ Pick your disease (Chlamydia, Gonorrhea, or Syphilis) and discover unique counts
 Prior to attempting to analyze your STD data set, clean your table to make it easier to process.
 
 
-Data Cleaning Formulas needing for input
-(original file: finalr_practice (AutoRecovered).csv)) 
+Apply Data Cleaning Formulas
+Lines 
 
