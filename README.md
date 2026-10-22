@@ -5,7 +5,7 @@ Pick your disease (Chlamydia, Gonorrhea, or Syphilis) and discover unique counts
 Prior to attempting to analyze your STD data set, clean your table to make it easier to process.
 
 
-Apply Data Cleaning Formulas (SB STD CODE.R)
+Apply Data Cleaning Formulas in your R Studio Console (SB STD CODE.R)
 
 Lines #9
 
